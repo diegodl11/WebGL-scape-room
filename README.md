@@ -24,3 +24,7 @@
 
 - **Three.js**
 - **JavaScript**
+
+Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras.
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles
