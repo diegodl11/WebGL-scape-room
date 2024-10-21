@@ -1,4 +1,3 @@
-
 Scape Church
 Descripción
 Scape Church es un juego interactivo en el que los jugadores deben resolver puzzles dentro de dos habitaciones para avanzar a través de un laberinto y alcanzar la sala final. El juego está desarrollado con Three.js y JavaScript, e incluye una variedad de técnicas gráficas y funcionalidades extra para mejorar la experiencia visual y de juego.
