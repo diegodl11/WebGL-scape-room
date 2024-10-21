@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Ejemplo Básico: Hola Mundo Three.js</title>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="../libs/jquery.js"></script>
+    
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "../libs/three.module.js"
+            }
+        }
+    </script>
+
+    <script type="module" src="escena.js"></script>    
+    
+    <style>
+        body{
+            margin: 0;
+            overflow: hidden; 
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="puntero.css" >
+</head>
+<body>
+
+<!-- Div which will show statistical information -->
+<div id="Stats-output">
+</div>
+<div id="custom-pointer">
+</div>
+<!-- Div which will hold the Output -->
+<div id="WebGL-output">
+</div>
+
+<div id="message-box" class="message-box">
+    <div id="message-text"></div>
+</div>
+  
+</body>
+</html>
